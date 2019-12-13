@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6349CFBB23A41A9F00BF29EB /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6349CFBA23A41A9F00BF29EB /* SecondView.swift */; };
+		6349CFC323A4313E00BF29EB /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6349CFC223A4313E00BF29EB /* Storyboard.storyboard */; };
 		63605342239BC2C700C4E2D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63605341239BC2C700C4E2D2 /* AppDelegate.swift */; };
 		63605344239BC2C700C4E2D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63605343239BC2C700C4E2D2 /* SceneDelegate.swift */; };
 		63605346239BC2C700C4E2D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63605345239BC2C700C4E2D2 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		6349CFBA23A41A9F00BF29EB /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		6349CFC223A4313E00BF29EB /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		6360533E239BC2C700C4E2D2 /* FirstProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63605341239BC2C700C4E2D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63605343239BC2C700C4E2D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				63605345239BC2C700C4E2D2 /* ViewController.swift */,
 				6349CFBA23A41A9F00BF29EB /* SecondView.swift */,
 				63605347239BC2C700C4E2D2 /* Main.storyboard */,
+				6349CFC223A4313E00BF29EB /* Storyboard.storyboard */,
 				6360534A239BC2C900C4E2D2 /* Assets.xcassets */,
 				6360534C239BC2C900C4E2D2 /* LaunchScreen.storyboard */,
 				6360534F239BC2C900C4E2D2 /* Info.plist */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6360534E239BC2C900C4E2D2 /* LaunchScreen.storyboard in Resources */,
+				6349CFC323A4313E00BF29EB /* Storyboard.storyboard in Resources */,
 				6360534B239BC2C900C4E2D2 /* Assets.xcassets in Resources */,
 				63605349239BC2C700C4E2D2 /* Main.storyboard in Resources */,
 			);
