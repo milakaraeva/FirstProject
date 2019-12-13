@@ -7,3 +7,6 @@
 //
 
 import Foundation
+import UIKit
+class SecondView: UIViewController {
+}
